@@ -3,81 +3,99 @@
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
 </p>
 
+
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
-</p>
-
-<br/>
-
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
-
-<br/>
-
-<!-- GitHub Star link -->
-<p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/gonblas/">
+    <img alt="Gonblas's Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gonblas">
+    <img alt="Gonblas's Github" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/gonblas/" target="_blank">
+    <img alt="Gonblas's Leetcode" src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white" />
+  </a>
+</div>
 
 
 
-  <h3>🔥 Contribution Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gonblas's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=gonblas&theme=catppuccin-mocha&hide_border=true&short_numbers=true&ring=F85D7F&stroke=F85D7F&fire=F85D7F&ring=F85D7F&currStreakNum=F85D7F&sideNums=F85D7F"/>
-    </a>
-  </p>
+<h3>🔥 Contribution Stats</h3>
 
-<!--
-  <h3>💻 GitHub Profile Stats</h3> 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img 
+      title="🔥 Get streak stats for your profile at git.io/streak-stats" 
+      alt="Gonblas's streak" 
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=gonblas&theme=catppuccin-mocha&hide_border=true&short_numbers=true&ring=F85D7F&stroke=F85D7F&fire=F85D7F&currStreakNum=F85D7F&sideNums=F85D7F" 
+      style="border-radius: 50px;"
+      width="47%" 
+    />
+  </a>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img 
+      alt="Gonblas's Activity Graph" 
+      src="https://github-readme-activity-graph.vercel.app/graph/?username=gonblas&bg_color=1E1E2E&color=F85D7F&line=F85D7F&point=fb14ac&hide_border=true" 
+      style="border-radius: 50px;"
+      width="52.2%" 
+    />
+  </a>
+
+</div>
+
+<h3><b><samp>Skills</samp></b></h3>
+
+<h4><b><samp>Languages</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=java,c,python,js,bash&perline=18)
+
+<h4><b><samp>DevOps</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=git,docker&perline=18)
+
+<h4><b><samp>Backend</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=spring,fastapi,postman&perline=18)
+
+<h4><b><samp>Frontend</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=html,css,tailwind,javascript,react&perline=18)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Gonblas's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=gonblas&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Gonblas's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gonblas&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-<br/>
+<h4><b><samp>Database</samp></b></h4>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. 
--->
+![](https://skills.syvixor.com/api/icons?perline=18&i=postgresql,mysql)
 
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<h4><b><samp>Electronics and IoT</samp></b></h4>
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Gonblas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=gonblas&bg_color=1E1E2E&color=F85D7F&line=F85D7F&point=fb14ac&hide_border=true" /></a>
+![](https://skills.syvixor.com/api/icons?i=arduino,raspberryp,platformio&perline=18)
+
+<h4><b><samp>Docs</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=md,typst,latex&perline=18)
+    
+##
+<h3><b><samp>Tools and Platform</samp></b></h3>
+
+<h4><b><samp>Operating Systems and Platforms</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=windows,linux,arch,debian&perline=18)
+
+<h4><b><samp>IDEs</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=intellijidea,vscode,vim&perline=18)
+
+<hr> 
+
 
   <h3>⚡ Recent GitHub Activity</h3>
 
